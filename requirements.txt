@@ -1,6 +1,0 @@
-aiogram==3.*
-aiohttp
-fastapi
-uvicorn[standard]
-qrcode
-pillow
